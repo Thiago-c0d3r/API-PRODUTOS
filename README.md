@@ -55,7 +55,7 @@ docker-compose up
 ### 4. Acesse a API
 
 ```
-GET http://localhost:3000/produtos
+GET http://localhost:3002/produtos
 ```
 
 ## 🗃️ Exemplo de JSON para POST
